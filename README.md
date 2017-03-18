@@ -66,11 +66,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
 - [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use macOS) your SoundCloud likes in convenient way
 - [football-cli](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league in your terminal.
+- [pockyt](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 
 ### Social Media
 
 - [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line interface
 - [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client- ([original](http://www.floodgap.com/software/ttytter/)).
+- [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
 
 ### Video
 
@@ -126,6 +128,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Timetrap](https://github.com/samg/timetrap) - Simple command line timetracker.
 - [terjira](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
 - [g3l](https://g3l.download) - Git is easy, github cli is easy but g3l easiest git cli in the w0rld!
+- [uber-cli](https://github.com/jaebradley/uber-cli) - Uber, at your fingertips.
+- [moro](https://github.com/omidfi/moro) - Time Tracker with a single command
 
 ## Utilities
 
@@ -144,6 +148,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [share-cli](https://github.com/marionebl/share-cli) - Quickly share files from command line with your local network.
 - [remote-share-cli](https://github.com/marionebl/remote-share-cli) - Quickly share files from your command line with the world.
 - [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using cli
+- [wego](https://github.com/schachmat/wego) - Get the weather right in your browser or your console.
 
 ### OS X
 
@@ -267,6 +272,7 @@ Some fine resources to write your own CLI App.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols to differentiate output messages with a blink of an eye.
 - [log-update](https://github.com/sindresorhus/log-update) – Useful for ASCII animation. For example loading indicators.
 - [listr](https://github.com/samverschueren/listr) - Terminal task list.
+- [DraftLog](https://github.com/ivanseidel/node-draftlog) - Create multiple updatable log lines. Works just like `console.log`.
 
 ### String Manipulation
 
